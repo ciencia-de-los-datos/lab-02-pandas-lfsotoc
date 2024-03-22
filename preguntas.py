@@ -117,10 +117,11 @@ def pregunta_06():
     """
     archivo = tbl1
     ar5 = archivo["_c4"].str.upper().sort_values().unique()
-    ar6 = list(ar5)
+    ar6 = ar5
+    # ar6 = list(ar5)
     
     # print(ar6)
-    return ar6
+    return list(ar6)
 # pregunta_06()
 
 def pregunta_07():
