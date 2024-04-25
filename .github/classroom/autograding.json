@@ -3,7 +3,7 @@
     {
       "name": "Pregunta 01",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 01",
+      "run": "python tests.py 01",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -13,7 +13,7 @@
     {
       "name": "Pregunta 02",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 02",
+      "run": "python tests.py 02",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -23,7 +23,7 @@
     {
       "name": "Pregunta 03",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 03",
+      "run": "python tests.py 03",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -33,7 +33,7 @@
     {
       "name": "Pregunta 04",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 04",
+      "run": "python tests.py 04",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -43,7 +43,7 @@
     {
       "name": "Pregunta 05",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 05",
+      "run": "python tests.py 05",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -53,7 +53,7 @@
     {
       "name": "Pregunta 06",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 06",
+      "run": "python tests.py 06",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -63,7 +63,7 @@
     {
       "name": "Pregunta 07",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 07",
+      "run": "python tests.py 07",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -73,7 +73,7 @@
     {
       "name": "Pregunta 08",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 08",
+      "run": "python tests.py 08",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -83,7 +83,7 @@
     {
       "name": "Pregunta 09",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 09",
+      "run": "python tests.py 09",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -93,7 +93,7 @@
     {
       "name": "Pregunta 10",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 10",
+      "run": "python tests.py 10",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -103,7 +103,7 @@
     {
       "name": "Pregunta 11",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 11",
+      "run": "python tests.py 11",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -113,7 +113,7 @@
     {
       "name": "Pregunta 12",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 12",
+      "run": "python tests.py 12",
       "input": "",
       "output": "",
       "comparison": "exact",
@@ -123,7 +123,7 @@
     {
       "name": "Pregunta 13",
       "setup": "pip3 install pandas",
-      "run": "python3 tests.py 13",
+      "run": "python tests.py 13",
       "input": "",
       "output": "",
       "comparison": "exact",
