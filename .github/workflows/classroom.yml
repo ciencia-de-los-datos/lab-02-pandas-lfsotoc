@@ -19,8 +19,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 01
-        setup-command: pip3 install pandas
-        command: python tests.py 01
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 01
         timeout: 1
         max-score: 1
     - name: Pregunta 02
@@ -28,7 +28,7 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 02
-        setup-command: pip3 install pandas
+        setup-command: pip3 install pandas=1.1.5
         command: python tests.py 02
         timeout: 1
         max-score: 1
@@ -37,7 +37,7 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 03
-        setup-command: pip3 install pandas
+        setup-command: pip3 install pandas=1.1.5
         command: python tests.py 03
         timeout: 1
         max-score: 1
@@ -46,8 +46,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 04
-        setup-command: pip3 install pandas
-        command: python tests.py 04
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 04
         timeout: 1
         max-score: 1
     - name: Pregunta 05
@@ -55,8 +55,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 05
-        setup-command: pip3 install pandas
-        command: python tests.py 05
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 05
         timeout: 1
         max-score: 1
     - name: Pregunta 06
@@ -64,8 +64,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 06
-        setup-command: pip3 install pandas
-        command: python tests.py 06
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 06
         timeout: 1
         max-score: 1
     - name: Pregunta 07
@@ -73,8 +73,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 07
-        setup-command: pip3 install pandas
-        command: python tests.py 07
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 07
         timeout: 1
         max-score: 1
     - name: Pregunta 08
@@ -82,8 +82,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 08
-        setup-command: pip3 install pandas
-        command: python tests.py 08
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 08
         timeout: 1
         max-score: 1
     - name: Pregunta 09
@@ -91,8 +91,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 09
-        setup-command: pip3 install pandas
-        command: python tests.py 09
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 09
         timeout: 1
         max-score: 1
     - name: Pregunta 10
@@ -100,8 +100,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 10
-        setup-command: pip3 install pandas
-        command: python tests.py 10
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 10
         timeout: 1
         max-score: 1
     - name: Pregunta 11
@@ -109,8 +109,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 11
-        setup-command: pip3 install pandas
-        command: python tests.py 11
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 11
         timeout: 1
         max-score: 1
     - name: Pregunta 12
@@ -118,8 +118,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 12
-        setup-command: pip3 install pandas
-        command: python tests.py 12
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 12
         timeout: 1
         max-score: 1
     - name: Pregunta 13
@@ -127,8 +127,8 @@ jobs:
       uses: education/autograding-command-grader@v1
       with:
         test-name: Pregunta 13
-        setup-command: pip3 install pandas
-        command: python tests.py 13
+        setup-command: pip3 install pandas=1.1.5
+        command: python3 tests.py 13
         timeout: 1
         max-score: 1
     - name: Autograding Reporter
