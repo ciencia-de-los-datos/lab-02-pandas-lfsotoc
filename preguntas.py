@@ -50,9 +50,16 @@ def pregunta_03():
     Name: _c1, dtype: int64
 
     """
-    letras = tbl0["_c1"]
-    letras = letras.value_counts().sort_index()
-    return letras[0]
+    archivo = tbl0
+    ar1=archivo.value_counts(archivo["_c1"])
+    # print(ar1.sort_index())
+    return ar1.sort_index()
+
+    # letras = tbl0["_c1"]
+    # letras = letras.value_counts().sort_index()
+    # # print(letras)
+    # return letras[0]
+# pregunta_03()
 
 def pregunta_04():
     """
